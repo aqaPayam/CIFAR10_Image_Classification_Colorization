@@ -65,4 +65,4 @@ The dataset used is the CIFAR-10 dataset, which consists of 60,000 32x32 color i
 
 ## Acknowledgments
 
-This project is part of the Deep Learning course at [Institution Name] by Dr. Soleymani.
+This project is part of the Deep Learning course by Dr. Soleymani.
